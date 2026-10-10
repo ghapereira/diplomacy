@@ -1,0 +1,38 @@
+{
+    "AUSTRIA": [
+        "A VIE-TRI",
+        "A BUD-GAL",
+        "F TRI-ALB"
+    ],
+    "ENGLAND": [
+        "A LVP - YOR",
+        "F LON - NTH",
+        "F EDI - NRG"
+    ],
+    "FRANCE": [
+        "A PAR - BUR",
+        "A MAR - SPA",
+        "F BRE - PIC"
+    ],
+    "GERMANY": [
+        "A BER - KIE",
+        "A MUN - RUH",
+        "F KIE - DEN"
+    ],
+    "ITALY": [
+        "A VEN - PIE",
+        "A ROM - VEN",
+        "F NAP - ION"
+    ],
+    "RUSSIA": [
+        "A MOS - UKR",
+        "A WAR - GAL",
+        "F STP - BOT",
+        "F SEV - BLA"
+    ],
+    "TURKEY": [
+        "A CON - BUL",
+        "A SMY - CON",
+        "F ANK - BLA"
+    ]
+}
